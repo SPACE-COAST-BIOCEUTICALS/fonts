@@ -1,0 +1,21 @@
+/*
+ * @license
+ * MyFonts Webfont Build ID 4000609, 2021-01-21T17:07:06-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Nekst-Regular by Serebryakov
+ * URL: https://www.myfonts.com/fonts/deniserebryakov/nekst/regular/
+ * 
+ * Webfont: Nekst-Bold by Serebryakov
+ * URL: https://www.myfonts.com/fonts/deniserebryakov/nekst/bold/
+ * 
+ * 
+ * Webfonts copyright: Copyright © 2020 by Denis Serebryakov. All rights reserved.
+ * 
+ * © 2021 MyFonts Inc
+*/
